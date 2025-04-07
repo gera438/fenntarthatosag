@@ -66,3 +66,16 @@ a.more-link:hover {
   background-color: #388e3c;
   color: white;
 }
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+
+  img {
+    max-height: 300px;
+  }
+}
