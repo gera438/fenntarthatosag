@@ -7,3 +7,14 @@ body {
   h1, h2 {
     font-weight: bold;
   }
+
+  h2 {
+    margin-bottom: 1rem;
+    border-left: 6px solid #4caf50;
+    padding-left: 0.6rem;
+  }
+  
+  p {
+    font-size: 1.1rem;
+  }
+  
