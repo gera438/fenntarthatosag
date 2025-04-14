@@ -79,3 +79,7 @@ a.more-link:hover {
     max-height: 300px;
   }
 }
+
+a{
+  color: #81c784;
+}
